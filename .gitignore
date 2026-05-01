@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+.next/
+
+# Env files
+.env
+
+# Uploads and local data
+backend/uploads/
+backend/data/saved_looks.json

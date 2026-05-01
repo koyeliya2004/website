@@ -1,0 +1,10 @@
+[
+  {"id": 1, "style": "soft girl", "mood": "calm", "weather": "hot", "color": "pastel pink", "items": ["pleated skirt", "cardigan", "white sneakers"], "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1"},
+  {"id": 2, "style": "aesthetic", "mood": "minimal", "weather": "cold", "color": "beige", "items": ["wide-leg pants", "knit sweater", "ankle boots"], "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b"},
+  {"id": 3, "style": "anime", "mood": "bold", "weather": "rainy", "color": "lavender", "items": ["oversized hoodie", "plaid skirt", "platform shoes"], "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c"},
+  {"id": 4, "style": "casual", "mood": "happy", "weather": "hot", "color": "sky blue", "items": ["denim shorts", "graphic tee", "canvas shoes"], "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f"},
+  {"id": 5, "style": "office", "mood": "minimal", "weather": "cold", "color": "charcoal", "items": ["blazer", "tailored trousers", "loafers"], "image": "https://images.unsplash.com/photo-1464863979621-258859e62245"},
+  {"id": 6, "style": "party", "mood": "bold", "weather": "hot", "color": "black", "items": ["slip dress", "statement heels", "mini bag"], "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b"},
+  {"id": 7, "style": "soft girl", "mood": "happy", "weather": "rainy", "color": "mint", "items": ["flowy dress", "light trench", "mary janes"], "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9"},
+  {"id": 8, "style": "casual", "mood": "calm", "weather": "cold", "color": "olive", "items": ["mom jeans", "hoodie", "puffer jacket"], "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518"}
+]

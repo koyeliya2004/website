@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { @apply bg-cream text-gray-700; font-family: ui-rounded, system-ui, sans-serif; }
+.card { @apply bg-white rounded-2xl shadow-soft p-4 transition hover:-translate-y-1; }
